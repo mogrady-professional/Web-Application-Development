@@ -5,10 +5,11 @@
 - [Table of Contents](#table-of-contents)
 - [Project Overview](#project-overview)
 - [Technologies](#technologies)
+- [Database Entities — Schema](#database-entities---schema)
 
 <hr>
 
-<h1>
+<h1 align="center">
 <img src="images/whg-rdbms.png"  height="auto" width="100%">
 <img src="images/database-cover.jpg"  height="auto" width="100%">
   </h1>
@@ -30,6 +31,12 @@ The end product resulted in an attractive looking application which is easy to u
 
 - [x] Microsoft Access
 - [x] RDBMS Modelling
+
+# Database Entities — Schema
+
+<h1 align="center">
+<img src="images/entities.png"  height="auto" width="100%">
+</h1>
 
 <h1 align="center">
 <img src="images/login.png"  height="auto" width="100%">
