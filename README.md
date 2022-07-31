@@ -8,7 +8,9 @@
 
 <hr>
 
+<h1>
 <img src="images/whg-rdbms.png"  height="auto" width="100%">
+<img src="images/database-cover.jpg"  height="auto" width="100%">
   </h1>
 
 # Project Overview
